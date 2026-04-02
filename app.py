@@ -4,7 +4,7 @@ import io
 
 # Sayfa Ayarları
 st.set_page_config(page_title="Öğrenci Dostu PDF Araçları", page_icon="📄")
-st.image("https://raw.githubusercontent.com/yunes-root/yunes-tools/main/logo.png", width=200)
+
 st.title("📄 PDF Birleştirici & Ayırıcı")
 st.markdown("---")
 

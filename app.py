@@ -65,4 +65,4 @@ elif islem == "PDF Sayfalarına Ayır":
             st.error("Lütfen bir dosya seç!")
 
 st.markdown("---")
-st.caption("Geliştirici: ")
+st.caption("Geliştirici: Yusuf Enes (yunes) ")

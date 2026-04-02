@@ -4,7 +4,7 @@ import io
 
 # Sayfa Ayarları
 st.set_page_config(page_title="Öğrenci Dostu PDF Araçları", page_icon="📄")
-
+st.image("file:///C:/Users/erdo/Downloads/Gemini_Generated_Image_ar2vb2ar2vb2ar2v.png", width=150) # Genişliğini width ile ayarlayabilirsin.
 st.title("📄 PDF Birleştirici & Ayırıcı")
 st.markdown("---")
 

@@ -1,9 +1,4 @@
 import streamlit as st
-st.set_page_config(
-    page_title="yunes.root | PDF Tools",
-    page_icon="https://raw.githubusercontent.com/yunes-root/yunes-tools/main/logo.png",
-    layout="wide"
-)
 from PyPDF2 import PdfMerger, PdfReader, PdfWriter
 import io
 

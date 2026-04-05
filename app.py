@@ -2,8 +2,6 @@ import streamlit as st
 from PyPDF2 import PdfMerger, PdfReader, PdfWriter
 import io
 
-# Sayfa Ayarları
-st.set_page_config(page_title="Öğrenci Dostu PDF Araçları", page_icon="📄")
 
 st.title("📄 PDF Birleştirici & Ayırıcı")
 st.markdown("---")

@@ -3,7 +3,7 @@ from PyPDF2 import PdfMerger, PdfReader, PdfWriter
 import io
 
 
-st.title("📄 PDF Birleştirici & Ayırıcı")
+
 st.markdown("---")
 
 # Yan Menü (Sidebar) Seçenekleri
